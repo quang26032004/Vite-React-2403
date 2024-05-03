@@ -1,0 +1,111 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "email": "quangpm@gmail.com",
+            "username": "quangpm",
+            "fullName": "Pham Minh Quang",
+            "department": "IT",
+            "position": "Developer"
+        },
+
+        {
+            "id": 2,
+            "email": "tuandt@gmail.com",
+            "username": "tuandt",
+            "fullName": "Do Tuan",
+            "department": "IT",
+            "position": "Developer"
+        },
+
+        {
+            "id": 3,
+            "email": "hung@gmail.com",
+            "username": "hungnm",
+            "fullName": "Nguyen Minh Hung",
+            "department": "IT",
+            "position": "Design"
+        },
+
+        {
+            "id": 4,
+            "email": "nam@gmail.com",
+            "username": "namnv",
+            "fullName": "Nguyen Van Nam",
+            "department": "HR",
+            "position": "Manager"
+        },
+        {
+            "id": 5,
+            "email": "linh@gmail.com",
+            "username": "linhnt",
+            "fullName": "Nguyen Thi Linh",
+            "department": "HR",
+            "position": "Assistant"
+        },
+        {
+            "id": 6,
+            "email": "thao@gmail.com",
+            "username": "thaont",
+            "fullName": "Nguyen Thi Thao",
+            "department": "HR",
+            "position": "Assistant"
+        },
+        {
+            "id": 7,
+            "email": "hien@gmail.com",
+            "username": "hiennt",
+            "fullName": "Nguyen Thi Hien",
+            "department": "Finance",
+            "position": "Accountant"
+        },
+        {
+            "id": 8,
+            "email": "trung@gmail.com",
+            "username": "trungnv",
+            "fullName": "Nguyen Van Trung",
+            "department": "Finance",
+            "position": "Accountant"
+        },
+        {
+            "id": 9,
+            "email": "thanh@gmail.com",
+            "username": "thanhnt",
+            "fullName": "Nguyen Thi Thanh",
+            "department": "Marketing",
+            "position": "Manager"
+        },
+        {
+            "id": 10,
+            "email": "hieu@gmail.com",
+            "username": "hieunv",
+            "fullName": "Nguyen Van Hieu",
+            "department": "Marketing",
+            "position": "Assistant"
+        },
+        {
+            "id": 11,
+            "email": "trang@gmail.com",
+            "username": "trangnt",
+            "fullName": "Nguyen Thi Trang",
+            "department": "Marketing",
+            "position": "Assistant"
+        },
+        {
+            "id": 12,
+            "email": "thu@gmail.com",
+            "username": "thunt",
+            "fullName": "Nguyen Thi Thu",
+            "department": "Sales",
+            "position": "Manager"
+        },
+        {
+            "id": 13,
+            "email": "hoang@gmail.com",
+            "username": "hoangnv",
+            "fullName": "Nguyen Van Hoang",
+            "department": "Sales",
+            "position": "Assistant"
+        }
+    ]
+}
